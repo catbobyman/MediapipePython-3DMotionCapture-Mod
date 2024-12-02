@@ -5,7 +5,7 @@
 
 ## 简介
 
-**MediapipePython-MotionTracking-Mod** 是一个基于 [Mediapipe](https://google.github.io/mediapipe/) 和 [Python](https://www.python.org/) 开发的运动捕捉与跟踪模块。该项目支持人体姿态实时检测。适用于虚拟主播、游戏开发等需要运动捕捉的应用。
+**MediapipePython-3DMotionCapture-Mod** 是一个基于 [Mediapipe](https://google.github.io/mediapipe/) 和 [Python](https://www.python.org/) 开发的运动捕捉与跟踪模块。该项目支持人体姿态实时检测。适用于虚拟主播、游戏开发等需要运动捕捉的应用。
 
 ---
 
