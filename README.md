@@ -74,7 +74,7 @@ python main.py
 - Mediapipe
 - OpenCV
 - NumPy
-...
+- ...
 
 ---
 
