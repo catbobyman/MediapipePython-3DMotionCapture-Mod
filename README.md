@@ -22,7 +22,7 @@
 ## 项目结构
 
 ```
-MediapipePython-MotionTracking-Mod/
+MediapipePython-3DMotionCapture-Mod/
 ├── Detector/             # 检测的脚本
     ├── FaceLandmarkDetector.py 
     └── PoseLandmarkDetector.py 
@@ -50,7 +50,7 @@ MediapipePython-MotionTracking-Mod/
 
 ### 1. 克隆项目
 ```bash
-git clone https://github.com/catbobyman/MediapipePython-MotionTracking-Mod.git
+git clone https://github.com/catbobyman/MediapipePython-3DMotionCapture-Mod.git
 cd MediapipePython-MotionTracking-Mod
 ```
 
