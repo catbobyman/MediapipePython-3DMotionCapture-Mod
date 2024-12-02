@@ -1,11 +1,11 @@
 
-# MediapipePython-MotionTracking-Mod
+# MediapipePython-3DMotionCapture-Mod
 
 [![GitHub repo](https://img.shields.io/badge/Repository-Link-blue)](https://github.com/catbobyman/MediapipePython-MotionTracking-Mod?tab=readme-ov-file)
 
 ## 简介
 
-**MediapipePython-MotionTracking-Mod** 是一个基于 Mediapipe 和 Python 的运动追踪模块，旨在通过自定义实现更高效的运动数据捕获和处理。此项目为开发虚拟主播、实时动作捕捉等领域提供了极大的便利。
+**MediapipePython-3DMotionCapture-Mod** 是一个基于 Mediapipe 和 Python 的运动追踪模块，旨在通过自定义实现更高效的运动数据捕获和处理。此项目为开发虚拟主播、实时动作捕捉等领域提供了极大的便利。
 
 ---
 
